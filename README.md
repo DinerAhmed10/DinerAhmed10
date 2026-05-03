@@ -8,8 +8,65 @@ Digital builder at the intersection of finance and technology. Building systems 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1258989167103447054) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diner-ahmed-173b6a38b?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DinerAhmed14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinerahmed476@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+‎Tech Stack
+‎
+‎<table width="100%">
+‎  <tr>
+‎    <td width="50%" valign="top">
+‎      <h4>💻 Languages & Core</h4>
+‎      <img src="https://skillicons.dev/icons?i=js,ts,py,rust,html,css,c,cpp,cs,java,dart&theme=dark" />
+‎    </td>
+‎    <td width="50%" valign="top">
+‎      <h4>🚀 Frameworks & Tools</h4>
+‎      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidjs,vite,webpack,git,vscode,wordpress&theme=dark" />
+‎    </td>
+‎  </tr>
+‎  <tr>
+‎    <td width="50%" valign="top">
+‎      <h4>📊 Databases & Cloud</h4>
+‎      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,gcp,azure,vercel,linux,ubuntu&theme=dark" />
+‎    </td>
+‎    <td width="50%" valign="top">
+‎      <h4>🎨 Design & Creative</h4>
+‎      <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender&theme=dark" />
+‎    </td>
+‎  </tr>
+‎</table>
+‎
+‎<br />
+‎
+‎
+‎
+‎
+⛓️‍💥 Web3 & Blockchain Infrastructure
+‎<p align="center">
+‎<a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a>&nbsp;
+‎<a href="https://solana.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" title="Solana"/></a>&nbsp;
+‎<a href="https://polygon.technology/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" title="Polygon"/></a>&nbsp;
+‎<a href="https://portal.arbitrum.one/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" title="Arbitrum"/></a>&nbsp;
+‎<a href="https://www.avax.network/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" title="Avalanche"/></a>&nbsp;
+‎<a href="https://chain.link/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" title="Chainlink"/></a>&nbsp;
+‎<a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask"/></a>&nbsp;
+‎<a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a>&nbsp;
+‎<a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a>&nbsp;
+‎<a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a>&nbsp;
+‎<a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a>&nbsp;
+‎<a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a>&nbsp;
+‎<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a>&nbsp;
+‎<a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a>&nbsp;
+‎<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a>&nbsp;
+‎<a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a>&nbsp;
+‎<a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a>
+‎</p>
+‎
+‎<br />
+‎
+‎
+‎
+‎
+‎
+‎
+‎
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DinerAhmed10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DinerAhmed10&theme=dark&hide_border=false)<br/>
