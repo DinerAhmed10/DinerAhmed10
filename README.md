@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Diner Ahmed</h1>
-<h3 align="center">Digital builder. Continuous learner.</h3>
 
 # 💫 About Me:
 Digital builder at the intersection of finance and technology. Building systems in trading, Web3, and AI automation. Focused on execution, scalability, and real-world impact.
